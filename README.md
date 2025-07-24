@@ -13,9 +13,9 @@ Currently in my 3rd year at York University, I'm passionate about coding, proble
 
 ## 🛠️ Skills
 
-- **Languages:** Python, Java, C++, JavaScript
+- **Languages:** Python, Java, C++, JavaScript, C, Java Swing, Vellum
 - **Problem Solving:** LeetCode, NeetCode
-- **Web & App Dev:** React, Node.js, SQL
+- **Web & App Dev:** React, Node.js,Next.js,mySQL, Vellum,
 - **Project Management:** Agile, Git, GitHub
 
 ## 🌟 Featured Projects
@@ -23,8 +23,12 @@ Currently in my 3rd year at York University, I'm passionate about coding, proble
 - **Cinema Management System**  
   A complete system for managing cinema operations. *(File coming soon!)*
 
-- **NutriFit** (in progress)  
+- **NutriFit** (in progress ( 80% done ))  
   Your next go-to app for fitness and nutrition.
+
+- **ModelCompare - YOLO & Vision Model Comparison Platform**
+Your ultimate tool to evaluate, benchmark, and visualize YOLO models and other computer vision architectures — empowering smarter choices for your AI projects.
+
 
 ## 🌐 Connect with Me
 
